@@ -13,3 +13,5 @@ To initialize your local repository using the TeamJB trees, use a command like t
 Then to sync up:
 
     repo sync
+
+After the initial sync sync once more so that the local_manifest.xml will be picked up.
