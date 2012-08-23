@@ -29,7 +29,6 @@
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
-  <project path="device/htc/common" name="TeamJB/android_device_htc_common" />
   <project path="device/htc/heroc" name="TeamJB/android_device_htc_heroc" />
   <project path="device/htc/msm8660-common" name="TeamJB/android_device_htc_msm8660-common" />
   <project path="device/htc/shooter" name="TeamJB/android_device_htc_shooter" />
