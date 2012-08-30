@@ -33,6 +33,7 @@
   <project path="device/htc/msm8660-common" name="TeamJB/android_device_htc_msm8660-common" />
   <project path="device/htc/shooter" name="TeamJB/android_device_htc_shooter" />
   <project path="device/samsung/d710" name="TeamJB/android_device_samsung_d710" />
+  <project path="device/samsung/galaxys2-common" name="TeamJB/android_device_samsung_galaxys2-common" />
   <project path="docs/source.android.com" name="CyanogenMod/android_docs_source.android.com" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" />
   <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" />
