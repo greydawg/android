@@ -29,7 +29,6 @@
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
-  <project path="device/htc/heroc" name="TeamJB/android_device_htc_heroc" />
   <project path="device/htc/msm8660-common" name="TeamJB/android_device_htc_msm8660-common" />
   <project path="device/htc/shooter" name="TeamJB/android_device_htc_shooter" />
   <project path="device/samsung/d710" name="TeamJB/android_device_samsung_d710" />
@@ -182,7 +181,6 @@
   <project path="external/webkit" name="CyanogenMod/android_external_webkit" />
   <project path="external/webp" name="CyanogenMod/android_external_webp" />
   <project path="external/webrtc" name="CyanogenMod/android_external_webrtc" />
-  <project path="external/wpa_supplicant" name="TeamJB/android_external_wpa_supplicant" />
   <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" />
   <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" />
   <project path="external/xmlwriter" name="CyanogenMod/android_external_xmlwriter" />
@@ -210,7 +208,7 @@
   <project path="frameworks/wilhelm" name="CyanogenMod/android_frameworks_wilhelm" />
   <project path="gdk" name="CyanogenMod/android_gdk" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
-  <!-- <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" /> -->
+  <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" />
   <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
@@ -225,7 +223,6 @@
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
-  <project path="kernel/htc/heroc" name="TeamJB/android_kernel_htc_heroc" />
   <project path="kernel/htc/shooter" name="MikeC84/android_kernel_htc_shooter" />
   <project path="kernel/samsung/smdk4210" name="sbrissen/android_kernel_samsung_smdk4210_new" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
@@ -319,9 +316,7 @@
   <project path="system/security" name="TeamJB/android_system_security" />
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
-  <project path="system/wlan/ti" name="TeamJB/android_system_wlan_ti" />
   <project path="vendor/cm" name="TeamJB/android_vendor_cm" />
-  <project path="vendor/htc/heroc" name="TeamJB/android_vendor_htc_heroc" />
   <project path="vendor/htc/shooter" name="TeamJB/android_vendor_htc_shooter" />
   <project path="vendor/samsung" name="TeamJB/android_vendor_samsung" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
