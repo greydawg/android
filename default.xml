@@ -31,6 +31,7 @@
   <project path="device/common" name="CyanogenMod/android_device_common" />
   <project path="device/htc/msm8660-common" name="TeamJB/android_device_htc_msm8660-common" />
   <project path="device/htc/shooter" name="TeamJB/android_device_htc_shooter" />
+  <project path="device/htc/shooteru" name="TeamJB/android_device_htc_shooteru" />
   <project path="device/samsung/d710" name="TeamJB/android_device_samsung_d710" />
   <project path="device/samsung/galaxys2-common" name="TeamJB/android_device_samsung_galaxys2-common" />
   <project path="docs/source.android.com" name="CyanogenMod/android_docs_source.android.com" />
